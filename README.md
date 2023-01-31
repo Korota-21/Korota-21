@@ -19,8 +19,8 @@ I'm a **`full stack developer`** 🎿
 #
 
 ## These are some of my projects ##
-<li><a href="https://github.com/Korota-21/angEshop">e-shop</a> hosted <a href="http://44.202.69.183/">here</a></li>
-<li><a href="https://github.com/Korota-21/blog-system">BlogSystem</a> hosted <a href="http://blog-system1.herokuapp.com/">here</a></li>
+<li><a href="https://github.com/Korota-21/angEshop">e-shop</a>
+<li><a href="https://github.com/Korota-21/blog-system">BlogSystem</a>
 <li><a href="https://github.com/Korota-21/chatlog-angular">Chatlog</a></li>
 <br />
 
