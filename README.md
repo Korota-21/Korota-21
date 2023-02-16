@@ -16,14 +16,6 @@ I'm a **`full stack developer`** 🎿
 
 <br />
 
-#
-
-## These are some of my projects ##
-<li><a href="https://github.com/Korota-21/angEshop">e-shop</a>
-<li><a href="https://github.com/Korota-21/blog-system">BlogSystem</a>
-<li><a href="https://github.com/Korota-21/chatlog-angular">Chatlog</a></li>
-<br />
-
 
 #
 
