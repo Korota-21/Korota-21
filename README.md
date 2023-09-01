@@ -19,6 +19,5 @@ I'm a **`full stack developer`** 🎿
 
 #
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=korota-21&show_icons=true&theme=react)
 <br />
 <a href="https://wakatime.com"><img width="500"  src="https://wakatime.com/share/@Korota_190/eef9b02c-ee09-41c5-8fd6-16e6414f6646.png" /></a>
